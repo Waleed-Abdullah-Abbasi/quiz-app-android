@@ -59,7 +59,7 @@ Before running this project, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quiz-app-android.git
+git clone https://github.com/Waleed-Abdullah-Abbasi/quiz-app-android.git
 cd quiz-app-android
 ```
 
@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/quiz-app-android/issues) page
+1. Check the [Issues](https://github.com/Waleed-Abdullah-Abbasi/quiz-app-android/issues) page
 2. Create a new issue with detailed description
 3. Contact the maintainer via email
 
