@@ -174,9 +174,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Waleed-Abdullah-Abbasi](https://github.com/Waleed-Abdullah-Abbasi)
+- LinkedIn: [waleed-abdullah-androiddeveloper](https://www.linkedin.com/in/waleed-abdullah-androiddeveloper/)
+- Email: abbasiwaleed54762@gmail.com
 
 ## 🙏 Acknowledgments
 
