@@ -33,7 +33,7 @@ A modern Android Quiz Application built with Firebase Authentication, Material D
 
 | Splash Screen | Login Screen | Home Screen |
 |---------------|--------------|-------------|
-| ![Splash](splash_screen.jpg) | ![Login](login_screen.jpg) | ![Home](home_screenjpg) |
+| ![Splash](splash_screen.jpg) | ![Login](login_screen.jpg) | ![Home](home_screen.jpg) |
 
 ## 🛠️ Tech Stack
 
