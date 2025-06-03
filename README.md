@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/877c6066-0fc5-4d42-ac64-bf2f404e4b0c)
-
-
-## 📱 Quiz App - Android Application
+# 📱 Quiz App - Android Application
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-orange.svg)](https://firebase.google.com)
@@ -169,3 +166,37 @@ We welcome contributions! Please follow these steps:
 - Add comments for complex logic
 - Maintain consistent indentation
 - Update documentation for new features
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com
+
+## 🙏 Acknowledgments
+
+- [Firebase](https://firebase.google.com) for backend services
+- [Material Design](https://material.io) for design guidelines
+- [Android Developers](https://developer.android.com) for comprehensive documentation
+- Open source community for inspiration and resources
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+
+1. Check the [Issues](https://github.com/yourusername/quiz-app-android/issues) page
+2. Create a new issue with detailed description
+3. Contact the maintainer via email
+
+## ⭐ Show Your Support
+
+If this project helped you, please give it a ⭐ on GitHub!
+
+---
+
+**Happy Coding! 🚀**
